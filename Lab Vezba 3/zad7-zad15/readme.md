@@ -1,1 +1,1 @@
-fajl "petougao.txt" treba biti u workspace\imeProjekta
+fajl "petougao.txt" treba biti (van src) u workspace\imeProjekta 
