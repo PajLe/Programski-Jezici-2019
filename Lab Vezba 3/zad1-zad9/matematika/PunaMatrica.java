@@ -100,6 +100,7 @@ public class PunaMatrica implements KvadratnaMatrica{
 		d.close();
 	}
 	
+	// https://gist.github.com/Cellane/398372/23a3e321daa52d4c6b68795aae093bf773ce2940#file-matrixoperations-java
 	private static double matrixDeterminant (double[][] matrix) {
 		double temporary[][];
 		double result = 0;
