@@ -50,7 +50,7 @@ namespace kolok2_2018_grpC
             for(int i = 1; i < putanja.Count; i++)
             {
                 int j;
-                for(j = i; j > 0 && putanja[j].NadmorskaVisina < putanja[j - 1].NadmorskaVisina; j--)
+                for(j = i; j > 0 && putanja[i].NadmorskaVisina < putanja[j - 1].NadmorskaVisina; j--)
                 {
                     putanja[j] = putanja[j - 1];
                 }
