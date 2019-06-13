@@ -1,1 +1,1 @@
-#fajlovi idu u /bin/debug/
+## fajlovi idu u /bin/debug/
