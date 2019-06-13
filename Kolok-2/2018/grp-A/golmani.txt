@@ -1,0 +1,13 @@
+11
+80
+2
+69
+PP
+Njegos
+true
+1
+99
+JJ
+Ymaj
+false
+1
